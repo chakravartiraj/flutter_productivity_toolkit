@@ -28,16 +28,21 @@ flutter_productivity_toolkit/
 ## Getting Started
 
 1. **Clone the Repository:**
-   ``` git clone https://github.com/YourGitHubUsername/flutter-productivity-toolkit.git
+   ``` bash
+   git clone https://github.com/YourGitHubUsername/flutter-productivity-toolkit.git
 
 2. **Install Dependencies:**
-   ``` flutter pub get
+   ``` bash
+   flutter pub get
 
 3. **Run the App:**
-   ``` flutter run
+   ``` bash
+   flutter run
 
 4. **Give execute permission to the Automation Script:**
-   ``` chmod +x scripts/refresh.sh
+   ``` bash
+   chmod +x scripts/refresh.sh
 
 5. **Use the Automation Script:**
-   ``` ./scripts/refresh.sh
+   ``` bash
+   ./scripts/refresh.sh
