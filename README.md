@@ -7,27 +7,16 @@ profiling using Flutter DevTools.
 ## Repository Structure:
 
 flutter_productivity_toolkit/
-│
 ├── lib/
-│
 │ ├── main.dart
-│
 │ ├── widgets/
-│
 │ │ └── custom_button.dart
-│
 │ └── utils/
-│
 │ └── formatter_script.dart
-│
 ├── scripts/
-│
 │ └── refresh.sh
-│
 ├── pubspec.yaml
-│
 ├── analysis_options.yaml
-│
 └── README.md
 
 ## Features
@@ -40,7 +29,7 @@ flutter_productivity_toolkit/
 
 1. **Clone the Repository:**
    ``` bash
-   git clone https://github.com/YourGitHubUsername/flutter-productivity-toolkit.git
+   git clone https://github.com/chakravartiraj/flutter_productivity_toolkit.git
 
 2. **Install Dependencies:**
    ``` bash
