@@ -7,17 +7,27 @@ profiling using Flutter DevTools.
 ## Repository Structure:
 
 flutter_productivity_toolkit/
+│
 ├── lib/
-
+│
 │ ├── main.dart
+│
 │ ├── widgets/
+│
 │ │ └── custom_button.dart
+│
 │ └── utils/
+│
 │ └── formatter_script.dart
+│
 ├── scripts/
+│
 │ └── refresh.sh
+│
 ├── pubspec.yaml
+│
 ├── analysis_options.yaml
+│
 └── README.md
 
 ## Features
